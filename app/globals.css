@@ -1,0 +1,42 @@
+.btn_b{
+  background-color: rgb(9, 119, 193);
+  color: white;
+  border-radius: 12%;
+}
+.btn_w{
+  background-color: white;
+  color: rgb(9, 119, 193);
+
+}
+.bg-one{
+  background-color: rgb(242, 242, 242);
+  color:  rgb(7, 164, 216);
+}
+.bg-nav{
+  background-color: rgb(7, 164, 216);
+  color:white
+}
+
+.nav-item.active .nav-link {
+  font-weight: bold;
+  background-color: #4587ce; /* Customize the background color */
+  color: white;
+  border-radius: 50%;
+  padding: 10px 20px;
+}
+
+.text{
+  color:rgb(7, 164, 216);
+  background-color: white;
+}
+
+.bg-active {
+  background-color: #4587ce; /* Example: Change this to your desired active color */
+  color: white; /* Optional: Ensure text is readable on the new background */
+}
+.link{
+  color: rgb(7, 164, 216);
+}
+html {
+  scroll-behavior: smooth;
+}
