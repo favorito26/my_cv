@@ -35,26 +35,25 @@ const Contact = () => {
   };
 
   return (
-    <div id="contact" className="d-flex flex-column justify-content-center align-items-center bg-nav text-white" style={{ minHeight: "93vh", padding: "0 1rem" }}>
+    <div id="contact" className="d-flex flex-column justify-content-center align-items-center bg-nav text-white pt-3" style={{ minHeight: "93vh", padding: "0 1rem" }}>
       <div className="row mb-5 w-100">
-        <div className="col-12 col-md-6 mb-4 mb-md-0">
-          <div className="card mt-4 lg">
+        <div className="col-12 col-md-6 mb-md-0">
+          <div className="card mb-2 lg">
             <div className="card-body">
               <h5 className="card-title btn_w mb-3">Address:</h5>
-              <p className="card-text btn_w">18/28 Sunderdas Terrace, Sankli Street above Sacred Heart School, 2nd floor, Byculla. Mumbai-400008</p>
+              <p className="card-text btn_w">18/28 Sunderdas Terrace, Sankli Street, <br /> above Sacred Heart School, <br /> 2nd floor, Byculla. Mumbai-400008</p>
             </div>
           </div>
         </div>
 
         <div className="col-12 col-md-6">
-          <div className="card">
+          <div className="card mt-2">
             <div className="card-body">
-              <h5 className="card-title btn_w mb-3">Contact me:</h5>
-              <a className="card-text btn_w">
+              <h5 className="card-title btn_w">Contact me:</h5>
+              <a href='tel:+918104136180' className="card-text btn_w">
               <img src="call.gif" alt="Instagram" height={"20"} />&nbsp;
                 +918104136180</a> <br />
               <a className="card-text btn_w">
-             
                 mufaddal2003@gmail.com</a> <br />
               <a className="card-text btn_w">
               <img src="instagram.svg" alt="Instagram" height={"20"} />&nbsp;
