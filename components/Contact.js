@@ -53,7 +53,7 @@ const Contact = () => {
               <a href='tel:+918104136180' className="card-text btn_w">
               <img src="call.gif" alt="Instagram" height={"20"} />&nbsp;
                 +918104136180</a> <br />
-              <a href='macit2711c@gmail.com' className="card-text btn_w">
+              <a href='mufaddal2003@gmail.com' className="card-text btn_w">
                 mufaddal2003@gmail.com</a> <br />
               <a href='https://www.instagram.com/mufaddal_chhatriwala2003?igsh=NndvaGhnaDR5czhh' className="card-text btn_w">
               <img src="instagram.svg" alt="Instagram" height={"20"} />&nbsp;
