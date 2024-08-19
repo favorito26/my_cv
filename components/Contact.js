@@ -55,7 +55,7 @@ const Contact = () => {
                 +918104136180</a> <br />
               <a className="card-text btn_w">
                 mufaddal2003@gmail.com</a> <br />
-              <a className="card-text btn_w">
+              <a href='https://www.instagram.com/mufaddal_chhatriwala2003?igsh=NndvaGhnaDR5czhh' className="card-text btn_w">
               <img src="instagram.svg" alt="Instagram" height={"20"} />&nbsp;
                 @mufaddal_chhatriwala2003</a>
             </div>
