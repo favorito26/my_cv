@@ -38,7 +38,7 @@ const Contact = () => {
     <div id="contact" className="d-flex flex-column justify-content-center align-items-center bg-nav text-white" style={{ minHeight: "93vh", padding: "0 1rem" }}>
       <div className="row mb-5 w-100">
         <div className="col-12 col-md-6 mb-4 mb-md-0">
-          <div className="card py-4">
+          <div className="card mt-4 lg">
             <div className="card-body">
               <h5 className="card-title btn_w mb-3">Address:</h5>
               <p className="card-text btn_w">18/28 Sunderdas Terrace, Sankli Street above Sacred Heart School, 2nd floor, Byculla. Mumbai-400008</p>
@@ -65,8 +65,8 @@ const Contact = () => {
       </div>
 
       {/* Contact Form */}
-      <div className="card p-3" style={{ width: "95%"}}>
-        <h5 className="card-title mb-4 btn_w text-center">Send an Email</h5>
+      <div className="card p-3 mb-4" style={{ width: "95%"}}>
+        <h5 className="card-title btn_w text-center">Send an Email</h5>
         <form onSubmit={handleSubmit}>
           <div className="form-group btn_w">
             <label htmlFor="email">Enter Your Email:</label>
