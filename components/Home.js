@@ -20,8 +20,9 @@ const Home = () => {
           <h1 className="mb-3">I am Mufaddal Chhatriwala</h1>
           <h3 className="mb-4">I love playing with codes</h3>
           <p className="mb-5">
-            Far far away, behind the comment mountains, far from the countries
-            lorem and ipsum, there lives him.
+          Welcome! I specialize in delivering top-notch software solutions tailored to meet your unique needs. <br /> Whether you’re looking to develop a new application, optimize existing systems, or tackle technical challenges, <br /> I’m here to help. <br /> Explore my portfolio to see how I can turn your ideas into reality and drive your projects to success.
+
+
           </p>
         </div>
       </div>
